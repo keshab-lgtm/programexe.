@@ -8,6 +8,7 @@ practiced programming increasing skills
 | ------- |
 | [0011-container-with-most-water](https://github.com/keshab-lgtm/programexe./tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/keshab-lgtm/programexe./tree/master/0014-longest-common-prefix) |
+| [1539-kth-missing-positive-number](https://github.com/keshab-lgtm/programexe./tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,8 @@ practiced programming increasing skills
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/keshab-lgtm/programexe./tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/keshab-lgtm/programexe./tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
